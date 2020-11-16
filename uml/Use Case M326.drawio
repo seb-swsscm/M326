@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-15T23:27:05.331Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="S1GB7gP3-hiAxegSA8LZ" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-16T00:02:25.563Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="B4jSf-K2JgWAyoNDti95" version="13.9.9" type="github">
   <diagram id="hkz-iaXpFmWoAraDN1t4" name="Page-1">
     <mxGraphModel dx="1730" dy="2136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,13 +17,10 @@
           <mxGeometry x="430" y="60" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iZmrzYQ0AmdRKnJRxA6O-8" value="Spielerbewegung" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="-20" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="iZmrzYQ0AmdRKnJRxA6O-9" value="Spiel joinen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="-100" width="120" height="80" as="geometry" />
+          <mxGeometry x="354" y="-30" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iZmrzYQ0AmdRKnJRxA6O-10" value="Applikationsstart und Namenseingabe" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="-170" width="120" height="80" as="geometry" />
+          <mxGeometry x="280" y="-130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iZmrzYQ0AmdRKnJRxA6O-14" value="Labyrinth speichern und benutzen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="600" width="120" height="80" as="geometry" />
@@ -47,12 +44,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="340" as="sourcePoint" />
             <mxPoint x="390" y="290" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iZmrzYQ0AmdRKnJRxA6O-23" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="iZmrzYQ0AmdRKnJRxA6O-9">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="149.9971428571431" as="sourcePoint" />
-            <mxPoint x="264.6268720801288" y="-56.612674400184105" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iZmrzYQ0AmdRKnJRxA6O-24" value="" style="endArrow=classic;html=1;entryX=0.044;entryY=0.813;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iZmrzYQ0AmdRKnJRxA6O-1" target="iZmrzYQ0AmdRKnJRxA6O-8">
